@@ -1,0 +1,9 @@
+pyttsx3
+datetime
+wikipedia
+pywhatkit
+pyjokes
+SpeechRecognition
+pyaudio
+openai
+selenium
